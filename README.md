@@ -26,9 +26,6 @@ The input string used in the program is:
 
 `huffman coding`
 
-## Output
-
-The program displays each character along with its corresponding Huffman code.
 
 Example format:
 
@@ -44,6 +41,13 @@ Character | Huffman Code
 
 * Python 3.x
 * No external libraries are required.
+
+## Output
+
+The program displays each character along with its corresponding Huffman code.
+
+<img width="325" height="297" alt="image" src="https://github.com/user-attachments/assets/ddc986fc-46e5-43f2-8203-4d05660b6d80" />
+
 
 ## Conclusion
 
